@@ -21,5 +21,7 @@ Data -> Preprocessing -> Model -> web deployment
 
 And then to use this library and to run the project:-
            `streamlit run app.py`
+<br /> load the repository into your local machine and then run movie.ipynb file first to get data files in correct format then execute the above command to do the operation </br>
+
 
 Dataset Link:- <a src= "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset"> Data set </a>
