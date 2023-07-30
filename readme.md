@@ -11,7 +11,7 @@ In content based we recommend based on the content of the item but in Collaborat
 <br/>
 We will use content based filtering in this project.
 <br/>
-###### Flow of the project
+<h5>Flow of the project</h5>
 <br/>
 Data -> Preprocessing -> Model -> web deployment
 
