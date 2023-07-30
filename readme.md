@@ -12,7 +12,6 @@ In content based we recommend based on the content of the item but in Collaborat
 We will use content based filtering in this project.
 <br/>
 <h5>Flow of the project</h5>
-<br/>
 Data -> Preprocessing -> Model -> web deployment
 
 <br/>Here to work on deployment part we will use streamlit library.
@@ -21,7 +20,5 @@ Data -> Preprocessing -> Model -> web deployment
 
 And then to use this library and to run the project:-
            `streamlit run app.py`
-<br /> load the repository into your local machine and then run movie.ipynb file first to get data files in correct format then execute the above command to do the operation </br>
-
-
+<br /> load the repository into your local machine and then run movie.ipynb file first to get data files in correct format then execute the above command to do the operation.<br/>
 Dataset Link:- <a src= "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset"> Data set </a>
